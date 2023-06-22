@@ -6,6 +6,5 @@ public class ParametrosInvalidosException extends Exception{
         int contagem = parametro2 - parametro1;
         for (int i = 0; i < contagem; i++);
         System.out.println(contagem);
-
     }
 }
